@@ -1,0 +1,83 @@
+html {
+	background-color: black;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.block1 {
+	width: 1366px;
+	height: 80px;
+	outline: 2px solid OrangeRed;
+	position: absolute;
+}
+
+.block2 {
+	width: 1366px;
+	height: 80px;
+	outline: 2px solid OrangeRed;
+	bottom: 0px;
+	position: absolute;
+}
+
+.block3 {
+	width: 200px;
+	height: 80px;
+	outline: 2px solid OrangeRed;
+	position: absolute;
+}
+
+.block4 {
+	width: 200px;
+	height: 80px;
+	outline: 2px solid OrangeRed;
+	bottom: 0px;
+	right: 0px;
+	position: absolute;
+}
+
+.block5 {
+	width: 800px;
+	height: 500px;
+	position: absolute;
+	background-color: OrangeRed;
+	right: 270px;
+	top: 95px;
+}
+
+.block6 {
+	width: 750px;
+	height: 450px;
+	position: absolute;
+	background-color: Black;
+	left: 24px;
+	top: 24px;
+}
+
+.text1 {
+	position: absolute;
+	font-family: Segoe UI Black;
+	font-size: 50px;
+	left: 10px;
+	top: 5px;
+	color: OrangeRed;
+}
+
+.text2 {
+	position: absolute;
+	font-family: Segoe UI Black;
+	font-size: 25px;
+	left: 50px;
+	bottom: 22px;
+	color: OrangeRed;
+}
+
+.img {
+	position: absolute;
+	left: 12px;
+	top: 12px;
+	width: 725px;
+	height: 425px;
+}
